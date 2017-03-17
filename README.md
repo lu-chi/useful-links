@@ -1,6 +1,6 @@
 ## Useful links for a daily SOC operations. 
 
-### IP tracking:
+### Triage:
 1. [X-Force](https://exchange.xforce.ibmcloud.com/new)
 2. [Threat Crowd](https://www.threatcrowd.org/)
 3. [Virus Total](https://www.virustotal.com/)
