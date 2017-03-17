@@ -1,12 +1,12 @@
 ## Useful links for a daily SOC operations.
 
-[X-Force](https://exchange.xforce.ibmcloud.com/new)
+- [X-Force](https://exchange.xforce.ibmcloud.com/new)
 
-[Threat Crowd](https://www.threatcrowd.org/)
+- [Threat Crowd](https://www.threatcrowd.org/)
 
-[Virus Total](https://www.virustotal.com/)
+- [Virus Total](https://www.virustotal.com/)
 
-[ipalyzer](https://www.ipalyzer.com/)
+- [ipalyzer](https://www.ipalyzer.com/)
 
 [IP Bulk Lookup](https://www.infobyip.com/ipbulklookup.php)
 
