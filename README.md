@@ -18,8 +18,15 @@
 15. [Packet Total](https://www.packettotal.com/)
 
 ### Threat Intell:
-1. [IP lists](http://iplists.firehol.org/)
-2. [Deep Viz](https://intel.deepviz.com/)
-3. [HT Bridge](https://www.htbridge.com/radar/)
-
+1. [OTX AlienVault](https://otx.alienvault.com/)
+2. [PhishTank](https://www.phishtank.com/)
+3. [OpenPhish](https://openphish.com/)
+4. [Threat Miner](https://www.threatminer.org/)
+5. [The Cyber Threat](http://thecyberthreat.com/cyber-threat-intelligence-feeds/)
+6. [Norse Map](http://map.norsecorp.com/#/)
+7. [Kaspersky CyberMap](https://cybermap.kaspersky.com/)
+8. [IP lists](http://iplists.firehol.org/)
+9. [Deep Viz](https://intel.deepviz.com/)
+10. [HT Bridge](https://www.htbridge.com/radar/)
+11. [Bad Guys IPs](http://cinsscore.com/list/ci-badguys.txt)
 
