@@ -1,5 +1,4 @@
 ## Useful links for a daily SOC operations. 
----
 
 ### IP tracking:
 1. [X-Force](https://exchange.xforce.ibmcloud.com/new)
