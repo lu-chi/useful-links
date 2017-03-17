@@ -1,7 +1,6 @@
 ## Useful links for a daily SOC operations. 
----
-
-+ IP tracking:
+===
+### IP tracking:
 1. [X-Force](https://exchange.xforce.ibmcloud.com/new)
 2. [Threat Crowd](https://www.threatcrowd.org/)
 3. [Virus Total](https://www.virustotal.com/)
@@ -17,9 +16,8 @@
 13. [Shodan HQ](https://www.shodan.io/)
 14. [Censys](https://censys.io/)
 15. [Packet Total](https://www.packettotal.com/)
-
-+ Threat Intell:
 ---
+### Threat Intell:
 1. [IP lists](http://iplists.firehol.org/)
 2. [Deep Viz](https://intel.deepviz.com/)
 3. [HT Bridge](https://www.htbridge.com/radar/)
