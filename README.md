@@ -31,3 +31,6 @@
 10. [HT Bridge](https://www.htbridge.com/radar/)
 11. [Bad Guys IPs](http://cinsscore.com/list/ci-badguys.txt)
 
+### To read:
+1. [Hunting Techniques](http://sqrrl.com/media/Common-Techniques-for-Hunting.pdf)
+
