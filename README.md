@@ -1,34 +1,32 @@
 ## Useful links for a daily SOC operations.
 
-- [X-Force](https://exchange.xforce.ibmcloud.com/new)
+1. [X-Force](https://exchange.xforce.ibmcloud.com/new)
+2. [Threat Crowd](https://www.threatcrowd.org/)
+3. [Virus Total](https://www.virustotal.com/)
 
-- [Threat Crowd](https://www.threatcrowd.org/)
+4. [ipalyzer](https://www.ipalyzer.com/)
 
-- [Virus Total](https://www.virustotal.com/)
+5. [IP Bulk Lookup](https://www.infobyip.com/ipbulklookup.php)
 
-- [ipalyzer](https://www.ipalyzer.com/)
+6. [URL Query](http://urlquery.net/)
 
-[IP Bulk Lookup](https://www.infobyip.com/ipbulklookup.php)
+7. [DNS dumpster](https://dnsdumpster.com/)
 
-[URL Query](http://urlquery.net/)
+8. [Online Hash Crack](https://www.onlinehashcrack.com/)
 
-[DNS dumpster](https://dnsdumpster.com/)
+9. [Robtex](https://www.robtex.com/)
 
-[Online Hash Crack](https://www.onlinehashcrack.com/)
+10. [IP Void](http://www.ipvoid.com/)
 
-[Robtex](https://www.robtex.com/)
+11. [MX Toolbox](http://mxtoolbox.com/SuperTool.aspx)
 
-[IP Void](http://www.ipvoid.com/)
+12. [Speed Guide](http://www.speedguide.net/)
 
-[MX Toolbox](http://mxtoolbox.com/SuperTool.aspx)
+13. [Shodan HQ](https://www.shodan.io/)
 
-[Speed Guide](http://www.speedguide.net/)
+14. [Censys](https://censys.io/)
 
-[Shodan HQ](https://www.shodan.io/)
-
-[Censys](https://censys.io/)
-
-[Packet Total](https://www.packettotal.com/)
+15. [Packet Total](https://www.packettotal.com/)
 
 ## Threat Intell
 
