@@ -33,4 +33,5 @@
 
 ### To read:
 1. [Hunting Techniques](http://sqrrl.com/media/Common-Techniques-for-Hunting.pdf)
+2. [Sqrrl Blog](http://blog.sqrrl.com/)
 
