@@ -50,8 +50,7 @@
 - [Bad Guys IPs](http://cinsscore.com/list/ci-badguys.txt)
 - [Malware Domains](http://www.malwaredomains.com/)
 - [Zeur Tracker](https://zeustracker.abuse.ch/blocklist.php)
-- [Detect and classify malicious domains](https://github.com/andrewaeva/lstm_dga) 
-Developed to research the possibility of applying LSTM neural network to detect and classify malicious domains.
+- [Detect and classify malicious domains](https://github.com/andrewaeva/lstm_dga) - LSTM neural network to detect and classify malicious domains.
 
 ---
 
