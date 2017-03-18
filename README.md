@@ -36,6 +36,7 @@
 
 > Threat / Cyber Intelligence useful links
 
+- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 - [OTX AlienVault](https://otx.alienvault.com/)
 - [PhishTank](https://www.phishtank.com/)
 - [OpenPhish](https://openphish.com/)
@@ -55,5 +56,12 @@
 - [Speed Guide](http://www.speedguide.net/)
 - [Hunting Techniques](http://sqrrl.com/media/Common-Techniques-for-Hunting.pdf)
 - [Sqrrl Blog](http://blog.sqrrl.com/)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+- [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
 
 ---
