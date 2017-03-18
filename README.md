@@ -72,3 +72,12 @@
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
 
 ---
+
+### CTFs:
+
+> CTF resources
+
+- [CTF resources](https://github.com/ctfs)
+
+---
+
