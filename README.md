@@ -34,7 +34,7 @@
 
 ### Threat Intell:
 
-> Threat / Cyber Intelligence useful links
+> Threat / Cyber Intelligence tools.
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 - [OTX AlienVault](https://otx.alienvault.com/)
@@ -56,8 +56,10 @@
 
 ### To read:
 
-> Inspriational readmes and tutorials
+> Inspriational readmes and tutorials.
 
+- [CyberSecuirty by Milos Constantin](http://www.scoop.it/t/cybersecurity-by-milos-constantin)
+- [Advanced Threat Intell by Milos Constantin](http://www.scoop.it/t/advanced-threats-intelligence-technology)
 - [Speed Guide](http://www.speedguide.net/)
 - [Hunting Techniques](http://sqrrl.com/media/Common-Techniques-for-Hunting.pdf)
 - [Sqrrl Blog](http://blog.sqrrl.com/)
