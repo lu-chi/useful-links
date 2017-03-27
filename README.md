@@ -28,7 +28,16 @@
 - [Shodan HQ](https://www.shodan.io/)
 - [Censys](https://censys.io/)
 - [Packet Total](https://www.packettotal.com/)
+
+---
+
+
+### Phishing stuff:
+
 - [Punycode converter](https://www.punycoder.com)
+- [PhishTank](https://www.phishtank.com/)
+- [OpenPhish](https://openphish.com/)
+
 
 ---
 
@@ -38,8 +47,6 @@
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 - [OTX AlienVault](https://otx.alienvault.com/)
-- [PhishTank](https://www.phishtank.com/)
-- [OpenPhish](https://openphish.com/)
 - [Threat Miner](https://www.threatminer.org/)
 - [The Cyber Threat](http://thecyberthreat.com/cyber-threat-intelligence-feeds/)
 - [Norse Map](http://map.norsecorp.com/#/)
