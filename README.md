@@ -34,7 +34,7 @@
 - [OpenPhish](https://openphish.com/)
 - [Expired Domains](https://www.expireddomains.net/)
 
-## Threat Intell:
+## Threat Intell
 
 *Threat / Cyber Intelligence tools.*
 
@@ -52,7 +52,7 @@
 - [Zeur Tracker](https://zeustracker.abuse.ch/blocklist.php)
 - [Detect and classify malicious domains](https://github.com/andrewaeva/lstm_dga) - LSTM neural network to detect and classify malicious domains.
 
-## To read:
+## To read
 
 *Inspriational readmes and tutorials.*
 
@@ -69,7 +69,7 @@
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
 
-## CTFs:
+## CTFs
 
 *CTF resources*
 
