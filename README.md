@@ -2,7 +2,7 @@
 
 ### Contents
 
-> A curated list of useful links for a daily SOC operations.
+*A curated list of useful links for a daily SOC operations.*
 
 - [Triage](#Triage)
 - [Threat Intell](#threat-intell)
@@ -12,7 +12,7 @@
 
 ### Triage:
 
-> Online triage and converters. 
+*Online triage and converters.* 
 
 - [X-Force](https://exchange.xforce.ibmcloud.com/new)
 - [Threat Crowd](https://www.threatcrowd.org/)
@@ -43,7 +43,7 @@
 
 ### Threat Intell:
 
-> Threat / Cyber Intelligence tools.
+*Threat / Cyber Intelligence tools.*
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 - [OTX AlienVault](https://otx.alienvault.com/)
@@ -63,7 +63,7 @@
 
 ### To read:
 
-> Inspriational readmes and tutorials.
+*Inspriational readmes and tutorials.*
 
 - [CyberSecuirty by Milos Constantin](http://www.scoop.it/t/cybersecurity-by-milos-constantin)
 - [Advanced Threat Intell by Milos Constantin](http://www.scoop.it/t/advanced-threats-intelligence-technology)
@@ -82,7 +82,7 @@
 
 ### CTFs:
 
-> CTF resources
+*CTF resources*
 
 - [CTF resources](https://github.com/ctfs)
 
