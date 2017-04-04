@@ -8,7 +8,6 @@
 - [Threat Intell](#threat-intell)
 - [To read](#to-read)
 
-
 ### Triage:
 
 *Online triage and converters.* 
@@ -28,14 +27,12 @@
 - [Censys](https://censys.io/)
 - [Packet Total](https://www.packettotal.com/)
 
-
 ### Phishing stuff:
 
 - [Punycode converter](https://www.punycoder.com)
 - [PhishTank](https://www.phishtank.com/)
 - [OpenPhish](https://openphish.com/)
 - [Expired Domains](https://www.expireddomains.net/)
-
 
 ### Threat Intell:
 
@@ -55,7 +52,6 @@
 - [Zeur Tracker](https://zeustracker.abuse.ch/blocklist.php)
 - [Detect and classify malicious domains](https://github.com/andrewaeva/lstm_dga) - LSTM neural network to detect and classify malicious domains.
 
-
 ### To read:
 
 *Inspriational readmes and tutorials.*
@@ -72,7 +68,6 @@
 - [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
-
 
 ### CTFs:
 
