@@ -4,7 +4,7 @@
 
 *A curated list of useful links for a daily SOC operations.*
 
-- [Triage](#Triage)
+- [Triage](#triage)
 - [Phishing](#phishing)
 - [Threat Intell](#threat-intell)
 - [To read](#to-read)
@@ -33,7 +33,7 @@
 - [Internet Archive](https://archive.org) - an internet wayback machine
 - [Online Pentest Tools](http://pentest-tools.security-audit.com) - online scanning toolset
 - [suIP.biz](https://suip.biz) - a collection of online scanning tools
-- [back to contents...](#Contents)
+- [back to contents...](#contents)
 
 ## Phishing
 
