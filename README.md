@@ -33,6 +33,12 @@
 - [Internet Archive](https://archive.org) - an internet wayback machine
 - [Online Pentest Tools](http://pentest-tools.security-audit.com) - online scanning toolset
 - [suIP.biz](https://suip.biz) - a collection of online scanning tools
+- [securityheaders](https://securityheaders.io)
+- [Netcraft](http://toolbar.netcraft.com/site_report?)
+- [Identity Search](https://crt.sh)
+- [OpenBugBounty](https://openbugbounty.org)
+- [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
+
 - [back to contents...](#contents)
 
 ## Phishing
@@ -43,6 +49,7 @@
 - [PhishTank](https://www.phishtank.com/)
 - [OpenPhish](https://openphish.com/)
 - [Expired Domains](https://www.expireddomains.net/)
+
 - [back to contents...](#contents)
 
 ## Threat Intell
@@ -62,6 +69,7 @@
 - [Malware Domains](http://www.malwaredomains.com/)
 - [Zeur Tracker](https://zeustracker.abuse.ch/blocklist.php)
 - [Detect and classify malicious domains](https://github.com/andrewaeva/lstm_dga) - LSTM neural network to detect and classify malicious domains.
+
 - [back to contents...](#contents)
 
 ## To read
@@ -80,6 +88,7 @@
 - [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
+
 - [back to contents...](#contents)
 
 ## CTFs
@@ -87,5 +96,6 @@
 *CTF resources*
 
 - [CTF resources](https://github.com/ctfs)
+
 - [back to contents...](#contents)
 
