@@ -16,8 +16,9 @@
 
 - [X-Force](https://exchange.xforce.ibmcloud.com/new)
 - [Threat Crowd](https://www.threatcrowd.org/)
+- [ThreatMiner](https://www.threatminer.org/)
 - [Virus Total](https://www.virustotal.com/)
-- [ipalyzer](https://www.ipalyzer.com/)
+- [IPalyzer](https://www.ipalyzer.com/)
 - [IP Bulk Lookup](https://www.infobyip.com/ipbulklookup.php)
 - [URL Query](http://urlquery.net/)
 - [DNS dumpster](https://dnsdumpster.com/)
