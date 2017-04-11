@@ -7,6 +7,7 @@
 - [Triage](#triage)
 - [Phishing](#phishing)
 - [Threat Intell](#threat-intell)
+- [Forensics](#forensics)
 - [To read](#to-read)
 - [CTFs](#ctfs)
 
@@ -67,6 +68,13 @@
 - [Malware Domains](http://www.malwaredomains.com/)
 - [Zeur Tracker](https://zeustracker.abuse.ch/blocklist.php)
 - [Detect and classify malicious domains](https://github.com/andrewaeva/lstm_dga) - LSTM neural network to detect and classify malicious domains.
+- [back to contents...](#contents)
+
+## Forensics
+
+*Digital forensics (DFIR) and malware analysis related sources.*
+
+- [MonnappaKA](https://www.youtube.com/c/MonnappaKA) - an awesome set of videos by MonappaKA on various forensics and malware analysis topics.
 - [back to contents...](#contents)
 
 ## To read
