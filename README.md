@@ -16,7 +16,6 @@
 
 - [X-Force](https://exchange.xforce.ibmcloud.com/new)
 - [Threat Crowd](https://www.threatcrowd.org/)
-- [ThreatMiner](https://www.threatminer.org/)
 - [Virus Total](https://www.virustotal.com/)
 - [IPalyzer](https://www.ipalyzer.com/)
 - [IP Bulk Lookup](https://www.infobyip.com/ipbulklookup.php)
@@ -57,7 +56,7 @@
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 - [OTX AlienVault](https://otx.alienvault.com/)
-- [Threat Miner](https://www.threatminer.org/)
+- [ThreatMiner](https://www.threatminer.org/)
 - [The Cyber Threat](http://thecyberthreat.com/cyber-threat-intelligence-feeds/)
 - [Norse Map](http://map.norsecorp.com/#/)
 - [Kaspersky CyberMap](https://cybermap.kaspersky.com/)
