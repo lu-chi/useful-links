@@ -107,7 +107,7 @@
 
 *A set of useful tools, either to be used online or to be downloaded*
 
-- [Markdown table generator](http://www.tablesgenerator.com/markdown_tables)
+- [Markdown table generator](http://www.tablesgenerator.com/markdown_tables){:target="_blank"}
 - [back to contents...](#contents)
 
 
