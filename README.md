@@ -82,6 +82,9 @@
 
 *Inspriational readmes and tutorials.*
 
+- [A blog by Didiee Stevens](https://blog.didierstevens.com/) - self-explanatory. Simple must read.
+- [A blog by Xavier Martens](https://blog.rootshell.be/) - another self-explanatory. A must read - again...
+- [Mubix room362](https://room362.com/) - ... and again.
 - [CyberSecuirty by Milos Constantin](http://www.scoop.it/t/cybersecurity-by-milos-constantin)
 - [Advanced Threat Intell by Milos Constantin](http://www.scoop.it/t/advanced-threats-intelligence-technology)
 - [Speed Guide](http://www.speedguide.net/)
