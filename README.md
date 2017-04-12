@@ -10,6 +10,7 @@
 - [Forensics](#forensics)
 - [To read](#to-read)
 - [CTFs](#ctfs)
+- [Useful tools](#useful-tools)
 
 ## Triage
 
@@ -101,4 +102,12 @@
 
 - [CTF resources](https://github.com/ctfs)
 - [back to contents...](#contents)
+
+## Useful tools
+
+*A set of useful tools, either to be used online or to be downloaded*
+
+- [Markdown table generator](http://www.tablesgenerator.com/markdown_tables)
+- [back to contents...](#contents)
+
 
