@@ -67,8 +67,10 @@
 - [HT Bridge](https://www.htbridge.com/radar/)
 - [Bad Guys IPs](http://cinsscore.com/list/ci-badguys.txt)
 - [Malware Domains](http://www.malwaredomains.com/)
-- [Zeur Tracker](https://zeustracker.abuse.ch/blocklist.php)
+- [Zeus Tracker](https://zeustracker.abuse.ch/blocklist.php)
 - [Detect and classify malicious domains](https://github.com/andrewaeva/lstm_dga) - LSTM neural network to detect and classify malicious domains.
+- [Ransomware Tracker](https://ransomwaretracker.abuse.ch/tracker/)
+- [firehol blocklist-ipsets](https://github.com/firehol/blocklist-ipsets)
 - [back to contents...](#contents)
 
 ## Forensics
