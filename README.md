@@ -28,6 +28,7 @@
 - [IP Void](http://www.ipvoid.com/)
 - [MX Toolbox](http://mxtoolbox.com/SuperTool.aspx)
 - [Shodan HQ](https://www.shodan.io/)
+- [Shodan Malware Hunter](https://malware-hunter.shodan.io/)
 - [Censys](https://censys.io/)
 - [Packet Total](https://www.packettotal.com/)
 - [urlscan.io](https://urlscan.io)
