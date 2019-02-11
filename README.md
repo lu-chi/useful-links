@@ -42,6 +42,8 @@
 - [OpenBugBounty](https://openbugbounty.org)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 - [have i been pwned](https://haveibeenpwned.com/)
+- [What CMS](https://whatcms.org)
+- [CMS Detect](http://cmsdetect.com/)
 - [back to contents...](#contents)
 
 ## Phishing
@@ -101,6 +103,7 @@
 - [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
+- [Identifying CMS on a website - a guide](https://devnet.kentico.com/articles/the-ultimate-guide-to-identifying-which-cms-is-used-on-a-website)
 - [back to contents...](#contents)
 
 ## CTFs
