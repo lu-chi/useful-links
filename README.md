@@ -106,7 +106,7 @@
 - [Identifying CMS on a website - a guide](https://devnet.kentico.com/articles/the-ultimate-guide-to-identifying-which-cms-is-used-on-a-website)
 - [Attack glossary](https://www.incapsula.com/ddos/attack-glossary/dns-amplification.html)
 - [Threat, Vulenrability, Risk](https://www.threatanalysis.com/2010/05/03/threat-vulnerability-risk-commonly-mixed-up-terms/)
-- [ISO27001 effective security controls](https://azure.microsoft.com/sv-se/blog/13-effective-security-controls-for-iso-27001-compliance/
+- [ISO27001 effective security controls](https://azure.microsoft.com/sv-se/blog/13-effective-security-controls-for-iso-27001-compliance/)
 - [back to contents...](#contents)
 
 ## CTFs
