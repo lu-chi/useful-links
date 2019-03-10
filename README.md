@@ -84,6 +84,7 @@
 *Digital forensics (DFIR) and malware analysis related sources.*
 
 - [MonnappaKA](https://www.youtube.com/c/MonnappaKA) - an awesome set of videos by MonappaKA on various forensics and malware analysis topics.
+- [Malware traffic analysis](http://www.malware-traffic-analysis.net/) - A source for pcap files and malware samples 
 - [back to contents...](#contents)
 
 ## To read
