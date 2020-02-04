@@ -19,6 +19,7 @@
 - [X-Force](https://exchange.xforce.ibmcloud.com/new)
 - [Threat Crowd](https://www.threatcrowd.org/)
 - [Virus Total](https://www.virustotal.com/)
+- [Virus Share](https://virusshare.com)
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 - [Hacker Target](https://hackertarget.com/nmap-online-port-scanner/) - set of online useful tools
 - [IPalyzer](https://www.ipalyzer.com/)
